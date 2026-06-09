@@ -12,6 +12,16 @@ This project analyzes Texas State Government employee payroll data and develops 
 * Build and compare regression models for salary prediction.
 * Generate business insights for workforce planning.
 
+## 📊 Dataset
+
+The dataset used in this project is not included in this repository due to file size limitations.
+
+## 🔗 Dataset Source:
+
+https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/salary.zip
+
+Download the dataset and place salary.csv in the project directory before running the notebook.
+
 ## 📂 Dataset Features
 
 * Agency
